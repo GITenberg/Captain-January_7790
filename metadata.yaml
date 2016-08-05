@@ -1,0 +1,39 @@
+_repo: Captain-January_7790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: 'Captain January: an orphaned girl has been happily living with Captain
+  January in a lighthouse since he rescued her from a shipwreck, but then the town''s
+  new truant officer tries to take her away.'
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcsh 'Home schooling -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Ship captains -- Juvenile fiction'
+- !lcsh 'Lighthouse keepers -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Intergenerational relations -- Juvenile fiction'
+- GITenberg
+title: Captain January
+url: http://www.gutenberg.org/ebooks/7790
