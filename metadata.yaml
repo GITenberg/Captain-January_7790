@@ -1,5 +1,8 @@
 _repo: Captain-January_7790
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Richards, Laura Elizabeth Howe
@@ -12,6 +15,8 @@ creator:
 description: 'Captain January: an orphaned girl has been happily living with Captain
   January in a lighthouse since he rescued her from a shipwreck, but then the town''s
   new truant officer tries to take her away.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7790#Captain-January
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
